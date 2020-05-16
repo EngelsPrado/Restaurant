@@ -37,7 +37,7 @@ ul {
 	color: white;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 411px) {
 	.bg {
 		height: 50vh;
 		position: relative;
