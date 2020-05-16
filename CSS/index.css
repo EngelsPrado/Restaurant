@@ -47,3 +47,14 @@ ul {
 		font-size: 12px;
 	}
 }
+
+@media (max-width: 304px) {
+	.bg {
+		height: 50vh;
+		position: relative;
+	}
+
+	.button1 {
+		font-size: 11px;
+	}
+}
